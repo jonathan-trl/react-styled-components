@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Rubik';
+  src: local('Rubik'), url('Assets/fonts/Rubik/Rubik-Regular.ttf');
+}
+
+body, a, button{
+  font-family: Rubik!important;
+}
